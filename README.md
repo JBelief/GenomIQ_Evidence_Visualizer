@@ -6,6 +6,12 @@ GenomIQ Evidence Visualizer helps precision oncology research teams review synth
 
 This is **not a diagnostic system** and must not be used for diagnosis, treatment recommendations, medication advice, screening instructions, or patient-specific clinical decisions.
 
+## Demo Video
+
+[![Watch the GenomIQ demo](media/genomiq_demo_poster.jpg)](media/genomiq_demo_captioned.mp4)
+
+The demo shows the Microsoft Foundry Agent calling the GenomIQ OpenAPI tool, running the multi-agent evidence workflow, and opening the generated interactive HTML report. The MP4 includes an English subtitle track; the editable subtitle source is available at [media/genomiq_demo_subtitles.srt](media/genomiq_demo_subtitles.srt).
+
 ## Challenge Alignment
 
 Track: **Reasoning Agents / Enterprise Agents**

@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:08,500
+GenomIQ Evidence Visualizer is a research-grade multi-agent assistant for genomic variant evidence review.
+
+2
+00:00:08,500 --> 00:00:20,000
+The demo starts inside Microsoft Foundry, where the GenomIQ agent is configured with clear research-only safety instructions.
+
+3
+00:00:20,000 --> 00:00:33,000
+A custom OpenAPI tool connects the Foundry agent to the local GenomIQ backend through a temporary demo endpoint.
+
+4
+00:00:33,000 --> 00:00:47,000
+The input is a synthetic, de-identified colorectal cancer research case containing BRAF V600E and a genomic coordinate.
+
+5
+00:00:47,000 --> 00:01:02,000
+The backend normalizes the variant input, runs MCP-style annotation, and queries NCBI/PubMed source interpretation paths.
+
+6
+00:01:02,000 --> 00:01:17,000
+The agent returns parsed variants, dbSNP IDs, PubMed evidence IDs, verification findings, and a generated report URL.
+
+7
+00:01:17,000 --> 00:01:33,000
+The interactive HTML report summarizes the top disease research hypotheses with confidence, evidence coverage, and claim status.
+
+8
+00:01:33,000 --> 00:01:48,000
+Evidence tabs show dbSNP and PubMed source metadata, while the reasoning tab exposes the multi-agent trace.
+
+9
+00:01:48,000 --> 00:02:04,000
+Safety checks verify citation format, annotation coverage, low-confidence claims, PHI/PII patterns, and export approval state.
+
+10
+00:02:04,000 --> 00:02:21,000
+The visual report is illustrative and deterministic. It is not a diagnosis tool and does not provide treatment recommendations.
+
+11
+00:02:21,000 --> 00:02:41,500
+The result is a cost-aware hackathon demo combining Microsoft Foundry Agents, OpenAPI tools, MCP, NCBI evidence, verification, and visualization.
