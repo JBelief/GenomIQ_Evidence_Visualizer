@@ -1,0 +1,8 @@
+Synthetic research case:
+
+A tumor board research fellow is reviewing a de-identified ovarian cancer case.
+The narrative mentions BRCA1 loss-of-function and possible PARP pathway involvement.
+The team wants a research evidence summary for BRCA1_mut and PARP_pathway_dependency.
+
+No patient name, date of birth, address, medical record number, or real clinical identifier is included.
+

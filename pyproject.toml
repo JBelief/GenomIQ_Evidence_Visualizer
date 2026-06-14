@@ -1,0 +1,16 @@
+[project]
+name = "genomiq-evidence-visualizer"
+version = "0.1.0"
+description = "Research-grade precision oncology evidence assistant demo for Microsoft Agents League Hackathon."
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+azure = [
+  "azure-ai-projects",
+  "azure-identity",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

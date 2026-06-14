@@ -1,0 +1,56 @@
+[
+  {
+    "variant": "BRAF_V600E",
+    "gene": "BRAF",
+    "disease_area": "Colorectal cancer",
+    "coordinate_hint": "chr7:g.140753336A>T",
+    "known_rsid_hint": "rs113488022",
+    "pubmed_query": "BRAF V600E colorectal cancer",
+    "dbsnp_query": "rs113488022"
+  },
+  {
+    "variant": "KRAS_G12D",
+    "gene": "KRAS",
+    "disease_area": "Colorectal cancer",
+    "coordinate_hint": "",
+    "known_rsid_hint": "",
+    "pubmed_query": "KRAS G12D colorectal cancer",
+    "dbsnp_query": "KRAS G12D"
+  },
+  {
+    "variant": "APC_truncating_variant",
+    "gene": "APC",
+    "disease_area": "Colorectal cancer",
+    "coordinate_hint": "",
+    "known_rsid_hint": "",
+    "pubmed_query": "APC truncating variant colorectal cancer",
+    "dbsnp_query": "APC truncating variant"
+  },
+  {
+    "variant": "MLH1_loss_or_variant",
+    "gene": "MLH1",
+    "disease_area": "Lynch syndrome and colorectal cancer",
+    "coordinate_hint": "",
+    "known_rsid_hint": "",
+    "pubmed_query": "MLH1 variant Lynch syndrome colorectal cancer",
+    "dbsnp_query": "MLH1 variant"
+  },
+  {
+    "variant": "BRCA1_research_marker",
+    "gene": "BRCA1",
+    "disease_area": "Breast and ovarian cancer",
+    "coordinate_hint": "",
+    "known_rsid_hint": "",
+    "pubmed_query": "BRCA1 variant breast ovarian cancer",
+    "dbsnp_query": "BRCA1 variant"
+  },
+  {
+    "variant": "TP53_R175H",
+    "gene": "TP53",
+    "disease_area": "solid tumor research",
+    "coordinate_hint": "",
+    "known_rsid_hint": "",
+    "pubmed_query": "TP53 R175H cancer",
+    "dbsnp_query": "TP53 R175H"
+  }
+]

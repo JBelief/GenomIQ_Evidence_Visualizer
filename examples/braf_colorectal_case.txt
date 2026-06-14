@@ -1,0 +1,12 @@
+Synthetic de-identified colorectal cancer research case.
+
+Variant payload:
+{
+  "variants": ["BRAF_V600E"],
+  "genomic_coordinate": "chr7:g.140753336A>T",
+  "nucleotide_change": "c.1799T>A",
+  "amino_acid_change": "p.V600E",
+  "primary_suspected_cancer": "Colorectal Cancer"
+}
+
+No patient name, date of birth, address, medical record number, or real clinical identifier is included.

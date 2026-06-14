@@ -1,0 +1,7 @@
+Synthetic de-identified VCF-like input for NCBI source interpretation.
+Research area: ovarian cancer.
+
+#CHROM POS ID REF ALT QUAL FILTER INFO
+7 182734 . A G 100 PASS .
+
+Additional free-text marker mention: BRCA1.
